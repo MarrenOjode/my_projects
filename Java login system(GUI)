@@ -1,4 +1,4 @@
-package loginsystem;
++package loginsystem;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -19,7 +19,7 @@ public class LoginGUI extends JFrame {
 	private JTextField txtUsername;
 	private JPasswordField success;
 	private JPasswordField txtPassword;
-
+	
 	/**
 	 * Launch the application.
 	 */
