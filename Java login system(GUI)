@@ -1,4 +1,4 @@
-+package loginsystem;
+package loginsystem;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
